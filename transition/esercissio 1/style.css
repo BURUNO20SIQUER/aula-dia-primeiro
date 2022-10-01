@@ -1,0 +1,21 @@
+header,
+footer {
+    display: block;
+}
+main {
+    position: relative;
+    width: 760px;
+    height: 500px;
+    margin: 10px auto;
+    box-shadow: 0 0 10px #999;
+    background-color: aliceblue;
+}
+header {
+    width: 760px;
+    height: 120px;
+    background-image: url(../imagem/header.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+
+}
